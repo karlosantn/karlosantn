@@ -2,11 +2,13 @@
 
 <h3>Hi there, I'm a student fullstack developer.</h3>
 
+[![Carlos Antônio Github States](https://github-readme-stats.vercel.app/api?username=karlosantn&show_icons=true&theme=dracula)](https://github.com/karlosantn/github-readme-stats)
+
 <h3>Top languages</h3>
 
 [![Carlos Antônio Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosantn&layout=compact)](https://github.com/karlosantn/github-readme-stats)
 
-<h3>Technologies I use for coding</h3>
+<!-- <h3>Technologies I use for coding</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -19,12 +21,12 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Css-F7B93E?style=flat-square&logo=css&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
 
-<!-- <h3>Featured Projects</h3>
+<h3>Featured Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
