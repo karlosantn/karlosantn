@@ -44,7 +44,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/karlosantn/portfolio"><b>Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/portfolio?style=flat-square&labelColor=343b41"/>5</td>
       <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
       <td>1~3 Weks</td>
       <td><a href="https://center-portfolio.netlify.app">Portfolio</a></td>
@@ -52,8 +52,8 @@
     </tr>
         <tr>
       <td><a href="https://github.com/karlosantn/argelar"><b>Ar Gelar</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/argelar?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white""/><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/argelar?style=flat-square&labelColor=343b41"/>3,2</td>
+      <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white""/><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></td>
       <td>1 month</td>
       <td><a href="https://www.argelarclimatizacao.com/">Ar Gelar</a></td>
       <td>:white_check_mark:</td>
