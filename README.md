@@ -1,10 +1,16 @@
 <h2>Welcome/ Bem vindo</h2>
 
-<h3>Hi there, I'm a student fullstack developer.</h3>
+<h3>Hi there, I'm a professional fullstack developer. My expertise relies on React.js and node.js</h3>
+
+<h3>Companies I work for</h3>
+<ul>
+  <li>Zoop - Fullstack developer (Reactjs/nodejs/python)</li>
+  <li>Escola Dnc  - Mentor/Facilitator/Cohost</li>
+</ul>
 
 <h3>Top languages</h3>
 
-[![Carlos Antônio Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosantn&layout=compact)](https://github.com/karlosantn/github-readme-stats)
+[![Julio Moraes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesardemoraes&layout=compact)](https://github.com/juliocesardemoraes/github-readme-stats)
 
 <h3>Technologies I use for coding</h3>
 <p>
@@ -38,20 +44,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/karlosantn/Portfolio"><b>Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/Portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/juliocesardemoraes/Portfolio"><b>Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/Portfolio?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></td>
       <td>2~3 Months</td>
-      <td><a href="https://center-portfolio.netlify.app">Portfolio</a></td>
+      <td><a href="https://portfolio-red-eta.vercel.app/en">Portfolio</a></td>
       <td>:white_check_mark:</td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/juliocesardemoraes/AprendendoCodando"><b>Aprendendo codando</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/AprendendoCodando?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></td>
+      <td>9 months</td>
+      <td><a href="https://aprendendo-codando.vercel.app/">Aprendendo codando</a></td>
+      <td>:white_check_mark:</td>
+    </tr>
+
   </tbody>
 </table>
 
 
 <h3>Contact</h3>
 
-<p><a href="https://www.linkedin.com/in/carlos-antn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/julio-cesar-de-moraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </table>
-
