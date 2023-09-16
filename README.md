@@ -1,16 +1,10 @@
 <h2>Welcome/ Bem vindo</h2>
 
-<h3>Hi there, I'm a professional fullstack developer. My expertise relies on React.js and node.js</h3>
-
-<h3>Companies I work for</h3>
-<ul>
-  <li>Zoop - Fullstack developer (Reactjs/nodejs/python)</li>
-  <li>Escola Dnc  - Mentor/Facilitator/Cohost</li>
-</ul>
+<h3>Hi there, I'm a student fullstack developer.</h3>
 
 <h3>Top languages</h3>
 
-[![Julio Moraes Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliocesardemoraes&layout=compact)](https://github.com/juliocesardemoraes/github-readme-stats)
+[![Carlos Antônio Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosantn&layout=compact)](https://github.com/karlosantn/github-readme-stats)
 
 <h3>Technologies I use for coding</h3>
 <p>
@@ -30,7 +24,7 @@
 </p>
 
 
-<h3>Featured Projects</h3>
+<!-- <h3>Featured Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -58,7 +52,7 @@
       <td>9 months</td>
       <td><a href="https://aprendendo-codando.vercel.app/">Aprendendo codando</a></td>
       <td>:white_check_mark:</td>
-    </tr>
+    </tr> -->
 
   </tbody>
 </table>
@@ -66,6 +60,6 @@
 
 <h3>Contact</h3>
 
-<p><a href="https://www.linkedin.com/in/julio-cesar-de-moraes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://www.linkedin.com/in/carlos-antn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 </table>
