@@ -23,7 +23,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Css-F7B93E?style=flat-square&logo=css&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
+</p> -->
 
 
 <h3>Featured Projects</h3>
@@ -40,21 +40,21 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/juliocesardemoraes/Portfolio"><b>Portfolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/Portfolio?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/></td>
-      <td>2~3 Months</td>
-      <td><a href="https://portfolio-red-eta.vercel.app/en">Portfolio</a></td>
+      <td><a href="https://github.com/karlosantn/portfolio"><b>Portfolio</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/portfolio?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></td>
+      <td>1~3 Weks</td>
+      <td><a href="https://center-portfolio.netlify.app">Portfolio</a></td>
       <td>:white_check_mark:</td>
     </tr>
         <tr>
-      <td><a href="https://github.com/juliocesardemoraes/AprendendoCodando"><b>Aprendendo codando</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliocesardemoraes/AprendendoCodando?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white"/><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /></td>
-      <td>9 months</td>
-      <td><a href="https://aprendendo-codando.vercel.app/">Aprendendo codando</a></td>
+      <td><a href="https://github.com/karlosantn/argelar"><b>Ar Gelar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/argelar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white""/>
+      <td>1 month</td>
+      <td><a href="https://www.argelarclimatizacao.com/">Aprendendo codando</a></td>
       <td>:white_check_mark:</td>
-    </tr> -->
+    </tr>
 
   </tbody>
 </table>
