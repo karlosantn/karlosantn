@@ -52,7 +52,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/karlosantn/argelar?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white""/>
       <td>1 month</td>
-      <td><a href="https://www.argelarclimatizacao.com/">Aprendendo codando</a></td>
+      <td><a href="https://www.argelarclimatizacao.com/">Ar Gelar</a></td>
       <td>:white_check_mark:</td>
     </tr>
 
